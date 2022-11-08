@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A problem solver ready to tackle whatever challenge comes next</h3>
 
-- 🔭 I’m currently working on **an uncluttered, customizable platform to host livestreamed video**
+- 🔭 I’m currently working on **a simple app to add and display local concert listings using Angular, .NET and Oracle**
 
 - 📫 How to reach me **georgethek@gmail.com**
 
